@@ -18,3 +18,5 @@ jobs:
           python analyze.py
           python verify.py
           git diff --exit-code -- 'results/*.csv'
+      - name: Render the adoption comparison
+        run: python figure.py

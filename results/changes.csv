@@ -1,0 +1,9 @@
+size,constraints,common_low_pp,common_high_pp,headline_change_pp
+GE10,all_published_counts,-1.74,11.895,6.47
+GE10,without_multi_use_counts,-1.74,11.895,6.47
+10-49,all_published_counts,-1.35,10.385,5.79
+10-49,without_multi_use_counts,-1.35,10.385,5.79
+50-249,all_published_counts,-2.76,17.285,9.39
+50-249,without_multi_use_counts,-2.76,17.285,9.39
+GE250,all_published_counts,-6.14,25.84,13.86
+GE250,without_multi_use_counts,-6.14,30.515,13.86
